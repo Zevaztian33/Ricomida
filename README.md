@@ -1,0 +1,2 @@
+# ricomida
+Ejercicio Ricomida
